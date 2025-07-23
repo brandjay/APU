@@ -1,0 +1,11 @@
+2025/01/22-10:15:41.026 2894 Reusing MANIFEST C:\Users\bmorgan\OneDrive - Hutchinson\Desktop\APU\bin\Debug\APU.exe.WebView2\EBWebView\Default\IndexedDB\https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/22-10:15:41.027 2894 Recovering log #4
+2025/01/22-10:15:41.042 2894 Reusing old log C:\Users\bmorgan\OneDrive - Hutchinson\Desktop\APU\bin\Debug\APU.exe.WebView2\EBWebView\Default\IndexedDB\https_www.office.com_0.indexeddb.leveldb/000004.log 
+2025/01/22-10:15:43.304 61d0 Level-0 table #8: started
+2025/01/22-10:15:43.327 61d0 Level-0 table #8: 2216279 bytes OK
+2025/01/22-10:15:43.328 61d0 Delete type=0 #4
+2025/01/22-10:15:43.361 6a9c Compacting 1@1 + 1@2 files
+2025/01/22-10:15:43.395 6a9c Generated table #9@1: 688 keys, 2126817 bytes
+2025/01/22-10:15:43.428 6a9c Generated table #10@1: 3945 keys, 2076782 bytes
+2025/01/22-10:15:43.428 6a9c Compacted 1@1 + 1@2 files => 4203599 bytes
+2025/01/22-10:15:43.429 6a9c compacted to: files[ 0 0 2 0 0 0 0 ]

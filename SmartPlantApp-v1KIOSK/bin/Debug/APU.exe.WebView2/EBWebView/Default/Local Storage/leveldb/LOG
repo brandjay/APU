@@ -1,0 +1,6 @@
+2025/07/17-13:51:25.997 56e8 Reusing MANIFEST D:\SmartPlant\bin\Debug\APU.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/07/17-13:51:26.011 56e8 Recovering log #21
+2025/07/17-13:51:26.015 56e8 Reusing old log D:\SmartPlant\bin\Debug\APU.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000021.log 
+2025/07/17-13:52:26.040 20f0 Level-0 table #25: started
+2025/07/17-13:52:26.046 20f0 Level-0 table #25: 15283 bytes OK
+2025/07/17-13:52:26.049 20f0 Delete type=0 #21
